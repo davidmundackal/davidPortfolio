@@ -828,8 +828,8 @@ img {
 }
 
 .project__img {
-    width: 232px;
-    justify-self: center;
+    width: 200px;
+    justify-self: left;
 }
 
 /* TESTIMONIAL */
@@ -1065,7 +1065,7 @@ img {
     }
 
     .project__img {
-        width: 200px;
+        width: 100px;
     }
 
     .testimonial__data,
